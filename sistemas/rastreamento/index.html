@@ -286,6 +286,7 @@
 										tipoInfo = 'information';
 										tipoSucesso = 'success';
 										// Mensagens
+										novaMensagem = 'Conteúdo postado aos correios Agência “358561” FLORIANÓPOLIS Encaminhado ao destinatário estado RIO DE JANEIRO ! Prazo para entrega de 2 dias úteis após a postagem.';
 										msgPostado = 'Conteúdo postado aos correios, encaminhado ao destinatário!';
 										msgPostado2dias = 'Conteúdo postado aos correios, encaminhado ao destinatário! Prazo para entrega de 2 dias úteis após a postagem.'
 										msgEnviado = 'Objeto postado';
@@ -574,6 +575,8 @@
 												if (objetos.length == 13) {
 													//console.log(testaTrack(objetos));
 													switch (objetos) {
+														case "SA898378811BR":
+															alerta(tipoAlerta, novaMensagem, duracaoFadOut);
 														case "SA398378851BR":
 															alerta(tipoAlerta, msgTravado10, duracaoFadOut);
 															break;
