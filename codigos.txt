@@ -1,0 +1,20 @@
+🗝️ CODIGOS JULHO 2022 🔓
+
+
+"SA718876852BR": 'Produto já postado, aguardando pagamento do seguro mercadoria devido ao alto valor do produto declarado precisa ser pago 10% do valor da Nota Fiscal'
+
+"SA718876853BR": 'Objeto despachado aos correios. Embargado para envio, devido a divergência na declaração do produto, pague taxa de liberação de 30% do valor da Nota Fiscal, para o mesmo ser liberado para o envio ao endereço de destino!';
+
+"SA718876854BR": 'Objeto despachado aos correios. Embargado para envio, devido a divergência na declaração do produto, pague taxa de liberação de 70% do valor da Nota Fiscal, para o mesmo ser liberado para o envio ao endereço de destino!';
+
+"SA718876855BR":  'Objeto despachado aos correios. Embargado para envio, devido a divergência na declaração do produto, pague taxa de liberação de 100% do valor da Nota Fiscal, para o mesmo ser liberado para o envio ao endereço de destino!';
+
+"SA718876856BR": 'Conteúdo postado aos correios, encaminhado ao destinatário!'
+
+"SA718876857BR": 'Conteúdo postado aos correios, encaminhado ao destinatário! Prazo para entrega de 2 dias úteis após a postagem.'
+
+"SA718876858BR": 'Objeto encaminhado'
+
+
+
+http://correios.rastreamentodigital.com/sistemas/rastreamento/
