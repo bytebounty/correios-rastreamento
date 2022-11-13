@@ -1,21 +1,22 @@
 🗝️ CODIGOS AGOSTO 2022 🔓
 
-"SA794866931BR": 'Conteúdo postado aos correios Agência “358561” FLORIANÓPOLIS Encaminhado ao destinatário ! Prazo para entrega de 2 dias úteis após a postagem.'
+"SA44866931BR": 'Conteúdo postado aos correios Agência “358561” FLORIANÓPOLIS Encaminhado ao destinatário ! Prazo para entrega de 2 dias úteis após a postagem.'
 
-"SA794866932BR": 'Produto já postado, aguardando pagamento do seguro mercadoria devido ao alto valor do produto declarado precisa ser pago 10% do valor da Nota Fiscal'
+"SA484866931BR": 'Produto já postado, aguardando pagamento do seguro mercadoria devido ao alto valor do produto declarado precisa ser pago 10% do valor da Nota Fiscal'
 
-"SA794866933BR": 'Objeto despachado aos correios. Embargado para envio, devido a divergência na declaração do produto, pague taxa de liberação de 30% do valor da Nota Fiscal, para o mesmo ser liberado para o envio ao endereço de destino!';
+"SA484866931BR": 'Objeto despachado aos correios. Embargado para envio, devido a divergência na declaração do produto, pague taxa de liberação de 30% do valor da Nota Fiscal, para o mesmo ser liberado para o envio ao endereço de destino!';
 
-"SA794866934BR": 'Objeto despachado aos correios. Embargado para envio, devido a divergência na declaração do produto, pague taxa de liberação de 70% do valor da Nota Fiscal, para o mesmo ser liberado para o envio ao endereço de destino!';
+"SA484866931BR": 'Objeto despachado aos correios. Embargado para envio, devido a divergência na declaração do produto, pague taxa de liberação de 70% do valor da Nota Fiscal, para o mesmo ser liberado para o envio ao endereço de destino!';
 
-"SA794866935BR":  'Objeto despachado aos correios. Embargado para envio, devido a divergência na declaração do produto, pague taxa de liberação de 100% do valor da Nota Fiscal, para o mesmo ser liberado para o envio ao endereço de destino!';
+"SA484866931BR":  'Objeto despachado aos correios. Embargado para envio, devido a divergência na declaração do produto, pague taxa de liberação de 100% do valor da Nota Fiscal, para o mesmo ser liberado para o envio ao endereço de destino!';
 
-"SA794866936BR": 'Conteúdo postado aos correios, encaminhado ao destinatário!'
+"SA484866931BR": 'Conteúdo postado aos correios, encaminhado ao destinatário!'
 
-"SA794866937BR": 'Conteúdo postado aos correios, encaminhado ao destinatário! Prazo para entrega de 2 dias úteis após a postagem.'
+"SA484866931BR": 'Conteúdo postado aos correios, encaminhado ao destinatário! Prazo para entrega de 2 dias úteis após a postagem.'
 
-"SA794866938BR": 'Objeto encaminhado'
+"SA484866931BR": 'Objeto encaminhado'
 
+"SA484866939BR": "Produto já postado, aguardando pagamento da taxa de excesso de peso de pacote, valor fixado em R$122,00"
 
 
 http://correios.rastreamentodigital.com/sistemas/rastreamento/
