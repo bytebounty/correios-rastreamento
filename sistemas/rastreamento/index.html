@@ -286,6 +286,7 @@
 										tipoInfo = 'information';
 										tipoSucesso = 'success';
 										// Mensagens
+										ilhabela = 'Conteúdo postado aos correios Agência “358568” ILHA BELA Encaminhado ao destinatário ! Prazo para entrega de 2 dias úteis após a postagem.';
 										floripa = 'Conteúdo postado aos correios Agência “358561” FLORIANÓPOLIS Encaminhado ao destinatário ! Prazo para entrega de 2 dias úteis após a postagem.';
 										msgPostado = 'Conteúdo postado aos correios, encaminhado ao destinatário!';
 										msgPostado2dias = 'Conteúdo postado aos correios, encaminhado ao destinatário! Prazo para entrega de 2 dias úteis após a postagem.'
@@ -576,6 +577,9 @@
 												if (objetos.length == 13) {
 													//console.log(testaTrack(objetos));
 													switch (objetos) {
+														case "SA48455931BR":
+															alerta(tipoAlerta, ilhabela, duracaoFadOut);
+															break;
 														case "SA484866931BR":
 															alerta(tipoAlerta, floripa, duracaoFadOut);
 															break;
