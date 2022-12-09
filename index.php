@@ -3,7 +3,6 @@
 <meta http-equiv="X-UA-Compatible"
 	content="IE=EDGE,chrome=1" />
 <html lang="pt-br">
-
 	<head>
 		<meta http-equiv="X-UA-Compatible"
 			content="IE=EDGE,chrome=1" />
