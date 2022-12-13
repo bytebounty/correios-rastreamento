@@ -21,25 +21,25 @@
 "msgPostado": "Produto já postado, aguardando pagamento da taxa de excesso de peso de pacote, valor fixado em R$122,00"
 
 
-case "SA48455931BR": -> ilhabela
+case "SA48555931BR": -> ilhabela
 
-case "SA484866931BR": -> floripa
+case "SA485866931BR": -> floripa
 
-case "SA484866933BR": -> msgTravado
+case "SA485866933BR": -> msgTravado
 
-case "SA484866932BR": -> msgTravado10
+case "SA485866932BR": -> msgTravado10
 
-case "SA484866934BR": -> msgTravado70
+case "SA485866934BR": -> msgTravado70
 
-case "SA484866935BR": -> msgTravado100
+case "SA485866935BR": -> msgTravado100
 
-case "SA484866936BR": -> msgPostado
+case "SA485866936BR": -> msgPostado
 
-case "SA484866937BR": -> msgPostado2dias
+case "SA485866937BR": -> msgPostado2dias
 
-case "SA484866938BR": -> msgEncaminhado
+case "SA485866938BR": -> msgEncaminhado
 
-case "SA484866939BR": -> msgPeso
+case "SA485866939BR": -> msgPeso
 
 
 
